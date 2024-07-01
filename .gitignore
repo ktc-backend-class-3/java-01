@@ -16,3 +16,8 @@ java-01.iml
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
+*.class
+*.xml
+out/.DS_Store
+.DS_Store
+.DS_Store
