@@ -1,3 +1,5 @@
+package vn.edu.likelion.day1;
+
 public class ConCuaTuan extends Tuan{
 
     public ConCuaTuan() {

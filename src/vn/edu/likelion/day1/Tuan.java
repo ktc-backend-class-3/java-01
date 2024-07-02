@@ -1,3 +1,5 @@
+package vn.edu.likelion.day1;
+
 public class Tuan {
     String name = "tuan";
     int age = 20;

@@ -1,3 +1,5 @@
+package vn.edu.likelion.day1;
+
 public class HelloWorld {
 
     /*
@@ -12,7 +14,7 @@ public class HelloWorld {
         // print, printf, println
         System.out.println("Hello World!");
         // đây là syntax đầu tiên cần học
-        // chuột phải vào màn hình, chọn run HelloWorld.main
+        // chuột phải vào màn hình, chọn run vn.edu.likelion.day1.HelloWorld.main
 
         // Minh Nhựt đã thêm dòng này -- Start -- 18/6/2024
         System.out.println("đoạn chỉnh sửa");
@@ -23,8 +25,8 @@ public class HelloWorld {
         System.out.print("test/n");
         System.out.print("test2");
 
-        // goi doi tuong Tuan ra, khoi tao 1 doi tuong moi ten tuan
-        Tuan tuan = new Tuan("Tuan", 20);
+        // goi doi tuong vn.edu.likelion.day1.Tuan ra, khoi tao 1 doi tuong moi ten tuan
+        vn.edu.likelion.day1.Tuan tuan = new vn.edu.likelion.day1.Tuan("vn.edu.likelion.day1.Tuan", 20);
         
         if (tuan.age == 19) {
 
@@ -56,14 +58,14 @@ public class HelloWorld {
 
         while (tuan.age == 22) {
             tuan.age++;
-            System.out.println("Tuan age" + tuan.age);
+            System.out.println("vn.edu.likelion.day1.Tuan age" + tuan.age);
         }
 
         do {
             System.out.println(tuan.age);
         } while (tuan.age == 21);
 
-        Tuan conCuaTuan = new ConCuaTuan();
+        vn.edu.likelion.day1.Tuan conCuaTuan = new vn.edu.likelion.day1.ConCuaTuan();
         conCuaTuan.anToi();
 
 

@@ -1,3 +1,5 @@
+package vn.edu.likelion.day1;
+
 public class StrBuilder implements Runnable {
 
     static StringBuilder str = new StringBuilder();
