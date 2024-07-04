@@ -7,6 +7,6 @@ public class TraBai {
         Random ran = new Random();
 
         DanhSachHV ds = new DanhSachHV();
-        System.out.println(ds.layDanhSachHV().get(ran.nextInt(24)));
+        System.out.println(ds.layDanhSachHV().get(ran.nextInt(23)));
     }
 }

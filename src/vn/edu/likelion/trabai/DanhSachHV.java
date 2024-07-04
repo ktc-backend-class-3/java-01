@@ -13,7 +13,6 @@ public class DanhSachHV {
         list.add("Nguyễn Huy Hảo");
         list.add("Trần Chí Hạo");
         list.add("Lê Trần Trung Hiếu");
-        list.add("Nguyễn Trung Hiếu");
         list.add("Nguyễn Đồng Hưng");
         list.add("Nguyễn Mạnh Khang");
         list.add("Nguyễn Hà Kiên");
