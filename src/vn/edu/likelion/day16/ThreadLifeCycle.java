@@ -1,4 +1,4 @@
-package vn.edu.likelion.test;
+package vn.edu.likelion.day16;
 
 class MyRunnable implements Runnable {
     @Override
