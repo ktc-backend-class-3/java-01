@@ -7,7 +7,6 @@ import vn.edu.likelion.model.Son;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 
 public class Application {
 
