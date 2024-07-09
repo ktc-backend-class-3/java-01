@@ -9,7 +9,6 @@ public class DanhSachHV {
         list.add("Nguyễn Hồ Thanh Bền");
         list.add("Nguyễn Thanh Dân");
         list.add("Trần Tuấn Duy");
-        list.add("Lê Thu Hà");
         list.add("Nguyễn Huy Hảo");
         list.add("Trần Chí Hạo");
         list.add("Lê Trần Trung Hiếu");
@@ -28,7 +27,7 @@ public class DanhSachHV {
         list.add("Nguyễn Võ Song Toàn");
         list.add("Trương Anh Tuấn");
         list.add("Hồ Vĩnh Tường");
-        list.add("rần Phúc Vinh");
+        list.add("trần Phúc Vinh");
         return list;
     }
 }
